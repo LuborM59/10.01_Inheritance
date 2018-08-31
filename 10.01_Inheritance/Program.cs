@@ -23,6 +23,9 @@ namespace _10._01_Inheritance
             spider.Name = "Odula";
             spforma.Sized = "Big";
 
+
+            Console.WriteLine();
+
             Console.WriteLine(spider.Name+", "+spider.numoflegs );
             Console.WriteLine(cat.Srst + ", " + cat.Name + ", " + cat.numoflegs);
             Console.WriteLine(spforma.Sized+", "+spforma.Name + ", " + spforma.numoflegs);
